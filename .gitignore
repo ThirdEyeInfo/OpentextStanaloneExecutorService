@@ -40,3 +40,4 @@ mvnw.cmd
 .gitignore.bak
 .metadata
 *.zip
+bin
